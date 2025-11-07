@@ -1,4 +1,4 @@
-# AUTOLEADS-Assignments
+# AEROLEADS-Assignments
 
 Repository for the assignments suggested by **AUTOLEADS**, structured and uploaded as advised.
 
