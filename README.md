@@ -1,6 +1,6 @@
 # AEROLEADS-Assignments
 
-Repository for the assignments suggested by **AUTOLEADS**, structured and uploaded as advised.
+Repository for the assignments suggested by **AEROLEADS**, structured and uploaded as advised.
 
 ## 📘 Table of Contents
 - [About](#about)  
@@ -10,7 +10,7 @@ Repository for the assignments suggested by **AUTOLEADS**, structured and upload
 ---
 
 ## 🧠 About  
-This repository contains the assignment files provided by **AUTOLEADS**, organized in a clear folder structure.  
+This repository contains the assignment files provided by **AEROLEADS**, organized in a clear folder structure.  
 The goal is to maintain all tasks in one place — clean, accessible, and easy to review or update.
 
 ---
@@ -36,10 +36,10 @@ To get a local copy up and running, follow these simple steps:
 
 ```bash
 # Clone this repository
-git clone https://github.com/Gagan6398/AUTOLEADS-Assignments.git
+git clone https://github.com/Gagan6398/AEROLEADS-Assignments.git
 
 # Navigate into the project folder
-cd AUTOLEADS-Assignments
+cd AEROLEADS-Assignments
 Now explore any assignment folder of your choice.
 
 🧩 How to Use
